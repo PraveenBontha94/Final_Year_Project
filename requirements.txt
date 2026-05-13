@@ -1,0 +1,7 @@
+pandas
+numpy
+networkx
+torch
+torch-geometric
+sentence-transformers
+scikit-learn

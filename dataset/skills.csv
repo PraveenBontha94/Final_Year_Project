@@ -1,0 +1,369 @@
+skill,description
+python,Programming language used for data analysis and machine learning
+data preprocessing,Techniques for cleaning and preparing data before training models
+machine learning,Algorithms that learn patterns from data to make predictions
+deep learning,Advanced machine learning using neural networks with multiple layers
+neural networks,Computational models inspired by the human brain used in deep learning
+ai/ml,This skill involves ai/ml
+amazon api gateway,This skill involves amazon api gateway
+amazon elastic kubernetes,This skill involves amazon elastic kubernetes
+amazon s3,This skill involves amazon s3
+amazon web services basics,This skill involves amazon web services basics
+angular cli,This skill involves angular cli
+angular components,This skill involves angular components
+apache airflow,This skill involves apache airflow
+apache avro,This skill involves apache avro
+apache hadoop,This skill involves apache hadoop
+apache hive,This skill involves apache hive
+apache impala,This skill involves apache impala
+apache jmeter,This skill involves apache jmeter
+apache kafka,This skill involves apache kafka
+apache spark,This skill involves apache spark
+api development,This skill involves api development
+api endpoints,This skill involves api endpoints
+api fluency,This skill involves api fluency
+api fluency testing,This skill involves api fluency testing
+api gateway,This skill involves api gateway
+api requests,This skill involves api requests
+api security,This skill involves api security
+api testing,This skill involves api testing
+application monitoring with azure,This skill involves application monitoring with azure
+application programming interfaces (api),This skill involves application programming interfaces (api)
+architecting on aws,This skill involves architecting on aws
+arrays in javascript,This skill involves arrays in javascript
+asynchronous javascript,This skill involves asynchronous javascript
+automated machine learning,This skill involves automated machine learning
+automated machine learning (automl),This skill involves automated machine learning (automl)
+automating system administration tasks with python,This skill involves automating system administration tasks with python
+aws,This skill involves aws
+aws autoscaling,This skill involves aws autoscaling
+aws availability zones,This skill involves aws availability zones
+aws certification preparation,This skill involves aws certification preparation
+aws cli,This skill involves aws cli
+aws cloud,This skill involves aws cloud
+aws codepipeline,This skill involves aws codepipeline
+aws config,This skill involves aws config
+aws cost explorer,This skill involves aws cost explorer
+aws data lakes,This skill involves aws data lakes
+aws database services,This skill involves aws database services
+aws elastic beanstalk,This skill involves aws elastic beanstalk
+aws glue,This skill involves aws glue
+aws iam,This skill involves aws iam
+aws identity and access management,This skill involves aws identity and access management
+aws key management service,This skill involves aws key management service
+aws lambda,This skill involves aws lambda
+aws management console,This skill involves aws management console
+aws security,This skill involves aws security
+azure app service,This skill involves azure app service
+azure automation,This skill involves azure automation
+azure blob storage,This skill involves azure blob storage
+azure cognitive search,This skill involves azure cognitive search
+azure cognitive search data import,This skill involves azure cognitive search data import
+azure cognitive search indexers,This skill involves azure cognitive search indexers
+azure cognitive search queries,This skill involves azure cognitive search queries
+azure cognitive services,This skill involves azure cognitive services
+azure compute service,This skill involves azure compute service
+azure conversational ai agents,This skill involves azure conversational ai agents
+azure data factory,This skill involves azure data factory
+azure data services,This skill involves azure data services
+azure defender,This skill involves azure defender
+azure event grid,This skill involves azure event grid
+azure form recognizer,This skill involves azure form recognizer
+azure functions,This skill involves azure functions
+azure key vault,This skill involves azure key vault
+azure kubernetes service,This skill involves azure kubernetes service
+azure log analytics,This skill involves azure log analytics
+azure logic apps,This skill involves azure logic apps
+azure ml pipelines,This skill involves azure ml pipelines
+azure ml platform,This skill involves azure ml platform
+azure ml sdk,This skill involves azure ml sdk
+azure ml user management,This skill involves azure ml user management
+azure monitor,This skill involves azure monitor
+azure pipelines,This skill involves azure pipelines
+azure portal,This skill involves azure portal
+azure pricing calculator,This skill involves azure pricing calculator
+azure resource groups,This skill involves azure resource groups
+azure resource manager,This skill involves azure resource manager
+azure security center,This skill involves azure security center
+azure synapse analytics,This skill involves azure synapse analytics
+bash (unix shell),This skill involves bash (unix shell)
+bash scripting,This skill involves bash scripting
+basic python data structures,This skill involves basic python data structures
+basic python syntax,This skill involves basic python syntax
+basic react,This skill involves basic react
+bigquery,This skill involves bigquery
+built-in python functions,This skill involves built-in python functions
+c sharp (c#) (programming language),This skill involves c sharp (c#) (programming language)
+c# coding,This skill involves c# coding
+c++,This skill involves c++
+c++ (programming language),This skill involves c++ (programming language)
+c++ code optimization,This skill involves c++ code optimization
+c++ copy and move semantics,This skill involves c++ copy and move semantics
+c++ data types,This skill involves c++ data types
+c++ functions,This skill involves c++ functions
+c++ libraries,This skill involves c++ libraries
+c++ polymorphism,This skill involves c++ polymorphism
+c++ syntax,This skill involves c++ syntax
+c++11,This skill involves c++11
+c/c++,This skill involves c/c++
+cascading style sheets (css),This skill involves cascading style sheets (css)
+cassandra,This skill involves cassandra
+ci/cd,This skill involves ci/cd
+cloud api,This skill involves cloud api
+cloud security in aws,This skill involves cloud security in aws
+cloud security in azure,This skill involves cloud security in azure
+cloud sql,This skill involves cloud sql
+cloud-based machine learning,This skill involves cloud-based machine learning
+computer vision,This skill involves computer vision
+computer vision fluency,This skill involves computer vision fluency
+confluent kafka python client,This skill involves confluent kafka python client
+continuous integration and continuous deployment (ci/cd),This skill involves continuous integration and continuous deployment (ci/cd)
+control flow in javascript,This skill involves control flow in javascript
+control flow in python,This skill involves control flow in python
+control flow in r,This skill involves control flow in r
+create oracle sql databases,This skill involves create oracle sql databases
+create react app,This skill involves create react app
+create simple javascript code,This skill involves create simple javascript code
+css,This skill involves css
+css code,This skill involves css code
+css frameworks,This skill involves css frameworks
+css-in-js,This skill involves css-in-js
+data analysis with r,This skill involves data analysis with r
+data encryption in aws,This skill involves data encryption in aws
+dax,This skill involves dax
+deep learning,This skill involves deep learning
+deep learning fluency,This skill involves deep learning fluency
+delete from oracle sql databases,This skill involves delete from oracle sql databases
+deploy and operationalize machine learning solutions,This skill involves deploy and operationalize machine learning solutions
+describe an analytics workload on azure,This skill involves describe an analytics workload on azure
+develop azure compute solutions,This skill involves develop azure compute solutions
+develop for azure storage,This skill involves develop for azure storage
+django (web framework),This skill involves django (web framework)
+django template language,This skill involves django template language
+docker,This skill involves docker
+docker security,This skill involves docker security
+entity–relationship (e-r) model,This skill involves entity–relationship (e-r) model
+flask,This skill involves flask
+functional api,This skill involves functional api
+functional javascript,This skill involves functional javascript
+gcp ace certification,This skill involves gcp ace certification
+gcp infrastructure,This skill involves gcp infrastructure
+generative machine learning,This skill involves generative machine learning
+git,This skill involves git
+git (software),This skill involves git (software)
+git and github,This skill involves git and github
+github,This skill involves github
+github collaboration,This skill involves github collaboration
+github portfolios,This skill involves github portfolios
+google cloud,This skill involves google cloud
+google cloud platform,This skill involves google cloud platform
+google dataflow/google bigquery,This skill involves google dataflow/google bigquery
+helm,This skill involves helm
+html,This skill involves html
+html and css,This skill involves html and css
+html/css,This skill involves html/css
+idle (python),This skill involves idle (python)
+implement azure security,This skill involves implement azure security
+implement responsible machine learning,This skill involves implement responsible machine learning
+inclusive ml,This skill involves inclusive ml
+insert and modify oracle sql databases,This skill involves insert and modify oracle sql databases
+introduction to python for cybersecurity,This skill involves introduction to python for cybersecurity
+java,This skill involves java
+java annotations,This skill involves java annotations
+java arrays,This skill involves java arrays
+java class library,This skill involves java class library
+java compiler,This skill involves java compiler
+java data types,This skill involves java data types
+java database connectivity (jdbc),This skill involves java database connectivity (jdbc)
+java package management,This skill involves java package management
+java programming,This skill involves java programming
+java stream api,This skill involves java stream api
+java syntax,This skill involves java syntax
+java testing,This skill involves java testing
+java tools,This skill involves java tools
+javascript,This skill involves javascript
+javascript async/await,This skill involves javascript async/await
+javascript coding,This skill involves javascript coding
+javascript data structures,This skill involves javascript data structures
+javascript exception handling,This skill involves javascript exception handling
+javascript functions,This skill involves javascript functions
+javascript methods,This skill involves javascript methods
+javascript object methods,This skill involves javascript object methods
+javascript package management,This skill involves javascript package management
+javascript promises,This skill involves javascript promises
+javascript syntax,This skill involves javascript syntax
+javascript variables,This skill involves javascript variables
+jenkins (software),This skill involves jenkins (software)
+kafka basics,This skill involves kafka basics
+kafka connect,This skill involves kafka connect
+kafka rest proxy,This skill involves kafka rest proxy
+keras,This skill involves keras
+kubernetes,This skill involves kubernetes
+kubernetes security,This skill involves kubernetes security
+lambda expressions,This skill involves lambda expressions
+linux,This skill involves linux
+linux file systems,This skill involves linux file systems
+logiciel tableau,This skill involves logiciel tableau
+machine learning,This skill involves machine learning
+machine learning (ml) algorithms,This skill involves machine learning (ml) algorithms
+machine learning applied to finance,This skill involves machine learning applied to finance
+machine learning classification,This skill involves machine learning classification
+machine learning concepts,This skill involves machine learning concepts
+machine learning dataset fundamentals,This skill involves machine learning dataset fundamentals
+machine learning engineering for production,This skill involves machine learning engineering for production
+machine learning experiment tracking,This skill involves machine learning experiment tracking
+machine learning fluency,This skill involves machine learning fluency
+machine learning framework fundamentals,This skill involves machine learning framework fundamentals
+machine learning interpretation,This skill involves machine learning interpretation
+machine learning model evaluation and optimization,This skill involves machine learning model evaluation and optimization
+machine learning model lifecycle,This skill involves machine learning model lifecycle
+machine learning modeling,This skill involves machine learning modeling
+machine learning operations (mlops),This skill involves machine learning operations (mlops)
+machine learning ops troubleshooting,This skill involves machine learning ops troubleshooting
+machine learning pipeline creation,This skill involves machine learning pipeline creation
+machine learning pipeline fundamentals,This skill involves machine learning pipeline fundamentals
+machine learning regression,This skill involves machine learning regression
+machine learning system architectures,This skill involves machine learning system architectures
+machine learning use cases,This skill involves machine learning use cases
+manage azure resources for machine learning,This skill involves manage azure resources for machine learning
+managing linux file systems,This skill involves managing linux file systems
+managing machine learning production systems,This skill involves managing machine learning production systems
+matplotlib,This skill involves matplotlib
+meta spark,This skill involves meta spark
+microsoft azure,This skill involves microsoft azure
+ml deployment challenges,This skill involves ml deployment challenges
+ml metadata,This skill involves ml metadata
+ml pipelines and ml operations (mlops),This skill involves ml pipelines and ml operations (mlops)
+ml pipelines and mlops,This skill involves ml pipelines and mlops
+model deployment with azure,This skill involves model deployment with azure
+mongodb,This skill involves mongodb
+monitor and troubleshoot azure solutions,This skill involves monitor and troubleshoot azure solutions
+mysql,This skill involves mysql
+natural language processing,This skill involves natural language processing
+natural language processing with bert,This skill involves natural language processing with bert
+network security with azure,This skill involves network security with azure
+networking on aws,This skill involves networking on aws
+nlp models,This skill involves nlp models
+nlp pipelines,This skill involves nlp pipelines
+node-postgres,This skill involves node-postgres
+node.js,This skill involves node.js
+nosql,This skill involves nosql
+nosql and big data,This skill involves nosql and big data
+nosql databases,This skill involves nosql databases
+numpy,This skill involves numpy
+object-oriented javascript,This skill involves object-oriented javascript
+object-oriented python,This skill involves object-oriented python
+opencv,This skill involves opencv
+pandas,This skill involves pandas
+pemrograman r,This skill involves pemrograman r
+perangkat lunak tableau,This skill involves perangkat lunak tableau
+power bi,This skill involves power bi
+power bi calculated columns and measures,This skill involves power bi calculated columns and measures
+power bi report customization,This skill involves power bi report customization
+power bi report design,This skill involves power bi report design
+powerbi,This skill involves powerbi
+programación en r,This skill involves programación en r
+programação em r,This skill involves programação em r
+programmation r,This skill involves programmation r
+python arrays,This skill involves python arrays
+python best practices,This skill involves python best practices
+python classes,This skill involves python classes
+python data structures,This skill involves python data structures
+python data type,This skill involves python data type
+python data types,This skill involves python data types
+python exception handling,This skill involves python exception handling
+python function definition,This skill involves python function definition
+python functions,This skill involves python functions
+python ides,This skill involves python ides
+python libraries,This skill involves python libraries
+python library fluency,This skill involves python library fluency
+python lists,This skill involves python lists
+python methods,This skill involves python methods
+python operator,This skill involves python operator
+python operators,This skill involves python operators
+python package management,This skill involves python package management
+python programming,This skill involves python programming
+python programming skills,This skill involves python programming skills
+python scripting,This skill involves python scripting
+python string methods,This skill involves python string methods
+python syntax,This skill involves python syntax
+python syntax and semantics,This skill involves python syntax and semantics
+python testing,This skill involves python testing
+python tools,This skill involves python tools
+python trees,This skill involves python trees
+pytorch,This skill involves pytorch
+r and rstudio,This skill involves r and rstudio
+r data structures,This skill involves r data structures
+r function definition,This skill involves r function definition
+r markdown,This skill involves r markdown
+r programmin language,This skill involves r programmin language
+r programming,This skill involves r programming
+r syntax,This skill involves r syntax
+r-programmierung,This skill involves r-programmierung
+react,This skill involves react
+react (javascript library),This skill involves react (javascript library)
+react (web framework),This skill involves react (web framework)
+react component state,This skill involves react component state
+react design patterns,This skill involves react design patterns
+react hooks,This skill involves react hooks
+react native basics,This skill involves react native basics
+react native os apis,This skill involves react native os apis
+react native styling,This skill involves react native styling
+react router,This skill involves react router
+react-redux bindings,This skill involves react-redux bindings
+red hat enterprise linux,This skill involves red hat enterprise linux
+red hat linux,This skill involves red hat linux
+redis,This skill involves redis
+research and development (r&d),This skill involves research and development (r&d)
+rest api's,This skill involves rest api's
+rest apis,This skill involves rest apis
+run basic analyses in r,This skill involves run basic analyses in r
+scala programming,This skill involves scala programming
+scikit-learn,This skill involves scikit-learn
+scipy and scikit-learn,This skill involves scipy and scikit-learn
+search algorithms in c++,This skill involves search algorithms in c++
+secure a kubernetes environment,This skill involves secure a kubernetes environment
+select (sql),This skill involves select (sql)
+server-side javascript,This skill involves server-side javascript
+sistemas de archivos de linux,This skill involves sistemas de archivos de linux
+sistemas de arquivos do linux,This skill involves sistemas de arquivos do linux
+software tableau,This skill involves software tableau
+spark sql,This skill involves spark sql
+sql,This skill involves sql
+sql & rdbms,This skill involves sql & rdbms
+sql (structured query language),This skill involves sql (structured query language)
+sql aggregations,This skill involves sql aggregations
+sql and python syntax,This skill involves sql and python syntax
+sql databases in azure,This skill involves sql databases in azure
+sql injection,This skill involves sql injection
+sql joins,This skill involves sql joins
+sql operations,This skill involves sql operations
+sql queries,This skill involves sql queries
+sql query performance tuning,This skill involves sql query performance tuning
+sql scripts,This skill involves sql scripts
+sql subqueries,This skill involves sql subqueries
+sql window functions,This skill involves sql window functions
+star and snowflake schema,This skill involves star and snowflake schema
+tableau data pane,This skill involves tableau data pane
+tableau interactive dashboards,This skill involves tableau interactive dashboards
+tableau software,This skill involves tableau software
+tableau storypoint,This skill involves tableau storypoint
+tableau visualizations,This skill involves tableau visualizations
+tableau-software,This skill involves tableau-software
+tensorflow,This skill involves tensorflow
+tensorflow datasets,This skill involves tensorflow datasets
+tensorflow extended (tfx),This skill involves tensorflow extended (tfx)
+tensorflow hub,This skill involves tensorflow hub
+tensorflow lite,This skill involves tensorflow lite
+tensorflow object detection api,This skill involves tensorflow object detection api
+tensorflow probability,This skill involves tensorflow probability
+tensorflow serving,This skill involves tensorflow serving
+tensorflow.js,This skill involves tensorflow.js
+terraform,This skill involves terraform
+testing in python,This skill involves testing in python
+text processing in python,This skill involves text processing in python
+time-series analysis with ml,This skill involves time-series analysis with ml
+unsupervised machine learning,This skill involves unsupervised machine learning
+web services flask,This skill involves web services flask
+workflow of machine learning projects,This skill involves workflow of machine learning projects
+xgboost,This skill involves xgboost
